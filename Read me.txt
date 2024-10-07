@@ -8,17 +8,17 @@ The Folder 'Coordinates' contains coordinates of parking area in the form of lis
 
 The Folder 'AWS Certificates' contains necessary certificates which are required to connect and publist DATA to AWS IoT cloud.
 
-The Folder 'video' contains video. 
+The Folder 'video' contains video. Unfortunately github does not support files larger than 25mb so I have provides gdrive link for the video
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ==========================================Libraries Required===============================================
 !!!!!!! The Ultralytics contains cv2 library so installing it saperately is not required!!!!!!!!!!
 
- LIBRARIES                                     COLAB                                                                                LOCAL
+ LIBRARIES                                     COLAB                                           LOCAL
 OpenCV- cv2            	                                                                        
-Ultralytics                                        !pip install ultralytics                                                              pip install ultralytics   
-Numpy                                            !pip install numpy                                                                  pip install numpy
-AWSIoTPythonSDK                        !pip install  AWSIoTPythonSDK.MQTTLib                             pip install AWSIoTPythonSDK.MQTTLib
+Ultralytics                                  !pip install ultralytics                          pip install ultralytics   
+Numpy                                        !pip install numpy                                pip install numpy
+AWSIoTPythonSDK                              !pip install  AWSIoTPythonSDK.MQTTLib             pip install AWSIoTPythonSDK.MQTTLib
 Json								                                                                        
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
